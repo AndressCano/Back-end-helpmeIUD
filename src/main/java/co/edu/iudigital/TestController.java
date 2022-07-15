@@ -14,4 +14,3 @@ public class TestController {
 		return ResponseEntity.ok().body("OK!");
 	}
 }
-
