@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+# back-end-helpmeiud-v2
+/src/main/resources/application.properties
